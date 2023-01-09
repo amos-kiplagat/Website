@@ -1,0 +1,41 @@
+p{
+    
+    font-family: 'Comic Neue', cursive;
+    color: grey;
+    text-align: justify;
+}
+h1{
+    font-weight: bolder;
+    font-family: 'Press Start 2P', cursive; 
+    font-size: 0.5cm;
+    text-align: left;
+}
+header{
+    font-family: 'Comic Neue', cursive;
+    font-weight: bolder;
+
+}
+body{
+    background-color: rgb(47, 245, 245);
+    caret-color: blueviolet;
+}
+h2{
+    font-family: 'Press Start 2P', cursive; 
+    font-size: 0.5cm;
+    font-stretch: ultra-expanded;
+    text-align: center;
+}
+pre{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+address{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+table, th, td {
+    border: 1px blue;
+    border-collapse: collapse;
+
+}
